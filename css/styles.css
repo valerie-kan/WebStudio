@@ -105,6 +105,7 @@ img {
 
 .mobile-burger-icon {
     display: block;
+    border: none;
 }
 
 @media screen and (min-width: 768px) {
