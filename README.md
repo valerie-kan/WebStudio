@@ -1,9 +1,9 @@
 # WebStudio project
 
-This is my first project, created during my learning process.
-The website has a responsive layout and is optimized for Retina displays.
-A burger menu is implemented for mobile devices.  
-Image optimization is done using SVG sprite (IcoMoon).
+<img src="https://valerie-kan.github.io/WebStudio/images/screenshot-webSt.jpg" width="500">
+
+My first project, was created during studies. The website has a responsive design and supports Retina displays. It includes a burger menu for mobile devices and basic animations. The Mobile-First approach was used.
+Images are optimized using Squoosh.
 
 ## 🚀 Technologies
 
